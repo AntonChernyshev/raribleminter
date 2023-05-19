@@ -7,7 +7,7 @@
 
 * Также не забудьте установить зависимости 
 
-<pre><code>$ pip install -r req.txt</code></pre>
+<pre><code> pip install -r req.txt</code></pre>
 
  
 
