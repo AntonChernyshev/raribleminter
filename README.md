@@ -1,4 +1,4 @@
-<h1 align="center">Кarible nft minter</h1>
+<h1 align="center">Rarible nft minter</h1>
 
 <h2>О боте</h2>
 Бот для минта нфт от Rarible в полигоне - https://rarible.com/ . </br>
